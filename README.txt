@@ -19,3 +19,4 @@ CovidVaccinations.csv               - Data on COVID-19 Vaccinations
 cleaned_owid_covid.csv              - csv output after I cleaned certain columns of the original dataset via Python
 owid-covid-data.csv                 - Original Dataset 
 owid_covid_data_preprocessing.ipynb - Jupyter Notebook that explains the data preprocessing on the original dataset via Python
+CHANGELOG.md                        - All notable changes to this project will be documented in this file. 
