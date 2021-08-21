@@ -7,7 +7,7 @@
 
 Data pulled on July 6th 2021
 
-This README documents about the project, skills used, and future plans for development. Please checkout my [COVID-19 Tableau Dashboard Project](https://github.com/AspiringDSer/PortfolioProjects/tree/main/Tableau-Projects/COVID-19_Dashboard). I also used [SQL queries](https://github.com/AspiringDSer/COVID19_Tableau_Dashboard/blob/master/COVID19_data_for_tableau_dashboard.sql) to create tables to connect with Tableau.
+This README documents about the project, skills used, and future plans for development. Please checkout my [COVID-19 Tableau Dashboard Project](https://github.com/AspiringDSer/COVID19_Tableau_Dashboard). I also used [SQL queries](https://github.com/AspiringDSer/COVID19_Tableau_Dashboard/blob/master/COVID19_data_for_tableau_dashboard.sql) to create tables to connect with Tableau.
 
 # About the Project
 
